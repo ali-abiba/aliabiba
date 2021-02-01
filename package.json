@@ -1,0 +1,19 @@
+{
+  "name": "aliabiba",
+  "version": "1.0.0",
+  "description": "Personal portfolio and blog!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-abiba/aliabiba.git"
+  },
+  "author": "Ali Abiba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali-abiba/aliabiba/issues"
+  },
+  "homepage": "https://github.com/ali-abiba/aliabiba#readme"
+}
